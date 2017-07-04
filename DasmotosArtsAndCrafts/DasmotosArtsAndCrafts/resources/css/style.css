@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://cdn.pixabay.com/photo/2016/11/21/17/58/abstract-1846856_960_720.jpg");
+  background-image: url("./background.jpg");        /*Public Domain _ credit: https://pixabay.com/en/users/Pexels-2286921/ */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
