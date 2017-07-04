@@ -1,0 +1,9 @@
+Hey could you give me pointers as to how to make the white 'text boxes' resizeable with the size of the window and also how to make
+the title scale with the size of the window (e.g. on a phone?)
+
+Also learning how to use different fonts (e.g. Oxygen) and how I could make the title Oxygen typeface.
+
+Also giving the webpage some interactive design like how to make a title shift color (either with CSS animation or JS)
+Also like a home button that is a little house, a facebook [f], etc on the title banner
+
+I HAVE NO IDEA if CodeAcademy is going to teach me how to do these things
