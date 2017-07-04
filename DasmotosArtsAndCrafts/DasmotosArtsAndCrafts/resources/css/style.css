@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/21/17/58/abstract-1846856_960_720.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Helvetica;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  background-image: url("./pattern.jpeg");
+  color: khaki;
+  margin-top: 0;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+em {
+  font-style: normal;
+  font-weight: bold;
+  color: blue;
+}
+.banner {
+position: fixed;
+width: 101%;        /*wasn't sure how to remove the 8px margin*/
+top: -8px;
+left: -8px;
+}
+.title-brushes {
+  background-color: MediumSpringGreen
+}
+.title-frames {
+  background-color: lightcoral;
+}
+.title-paint {
+  background-color: skyblue;
+}
+.title-contact {
+  background-color: orchid;
+}
+.text-background {
+  position: absolute;
+  height: 100px;
+  width: 99%;        /*again wasn't sure how to add the 8px margin*/
+  background-color: white;
+  opacity: 0.7;
+  z-index: -1;
+}
+.contact h2, .contact p {
+  display: inline;
+}
+#smallspace {        /*to make "Contact" area fit in*/
+  position: relative;
+  height:12px;
+}
+#bigspace {        /*to make space under the banner*/
+  position: relative;
+  height: 80px;
+}
