@@ -27,18 +27,6 @@ width: 101%;        /*wasn't sure how to remove the 8px margin*/
 top: -8px;
 left: -8px;
 }
-.title-brushes {
-  background-color: MediumSpringGreen
-}
-.title-frames {
-  background-color: lightcoral;
-}
-.title-paint {
-  background-color: skyblue;
-}
-.title-contact {
-  background-color: orchid;
-}
 .text-background {
   position: absolute;
   height: 100px;
@@ -49,6 +37,18 @@ left: -8px;
 }
 .contact h2, .contact p {
   display: inline;
+}
+#title-brushes {
+  background-color: MediumSpringGreen
+}
+#title-frames {
+  background-color: lightcoral;
+}
+#title-paint {
+  background-color: skyblue;
+}
+#title-contact {
+  background-color: orchid;
 }
 #smallspace {        /*to make "Contact" area fit in*/
   position: relative;
